@@ -92,7 +92,7 @@
         "Our website offers a wide range of medical services. You can book appointments with various specialists, find information about different treatments, even book radiology tests and buy medicine.",
         "This website is a one-stop solution for all your medical needs. From booking appointments with doctors to getting lab tests done, you can do it all here.",
         "The website offers a plethora of services. You can book appointments with doctors, find hospitals in your area, get information about various medical conditions and treatments, and much more.",
-        "Our website can provide you direct access to hospital el kandoussi, suissi, el fath and el khawarizmi"
+        "Our website can provide you direct access to hospitals mentioned"
       ]
     },
     {
@@ -300,17 +300,16 @@
       ]
     },
     {
-      "tag": "hospitals_in_rabat",
+      "tag": "hospitals_in_website",
       "patterns": [
-        "I need to find a hospital in Rabat",
-        "Can you suggest hospitals in Rabat on the website?",
-        "Where can I find hospitals in Rabat on the website?"
+        "I need to find a hospital",
+        "Can you suggest hospitals on the website?",
+        "Where can I find hospitals on the website?"
       ],
       "responses": [
-        "Sure, I can help you find hospitals in Rabat on our website. Please tell me more about the kind of hospital or service you are looking for.",
-        "You can find a list of hospitals in Rabat on our website. Please provide more details so I can assist you better.",
-        "I'm here to help. Can you tell me more about what you're looking for so I can assist you better?",
-        "Our website can provide you direct access to hospital el kandoussi, suissi, el fath and el khawarizmi"
+        "Sure, I can help you find hospitals on our website. Please tell me more about the kind of hospital or service you are looking for.",
+        "You can find a list of hospitals on our website. Please provide more details so I can assist you better.",
+        "I'm here to help. Can you tell me more about what you're looking for so I can assist you better?"
       ]
     }
   ]
